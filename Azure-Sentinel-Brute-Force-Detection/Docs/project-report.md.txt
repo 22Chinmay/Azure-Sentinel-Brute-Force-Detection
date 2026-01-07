@@ -1,0 +1,24 @@
+## Project Title
+Azure Cloud Security – Brute Force Login Detection using Microsoft Sentinel
+
+## Objective
+To detect and respond to brute-force login attacks using cloud-native SIEM.
+
+## Tools Used
+- Microsoft Azure
+- Microsoft Sentinel
+- Log Analytics Workspace
+- Windows Virtual Machine
+- KQL
+
+## Methodology
+1. Created Log Analytics Workspace
+2. Enabled Microsoft Sentinel
+3. Configured Data Collection Rules
+4. Wrote KQL detection query
+5. Created Analytics Rule
+6. Generated and investigated incident
+7. Closed incident as True Positive
+
+## Result
+A high-severity incident was successfully generated and handled.
